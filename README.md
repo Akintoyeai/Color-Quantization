@@ -1,2 +1,2 @@
 # Machine_learning
-Basic Color comprssion algorithm using K-means Clustering
+Basic Color compression algorithm using K-means Clustering
